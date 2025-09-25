@@ -15,6 +15,11 @@ The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0-9
 <img width="988" height="723" alt="Screenshot 2025-09-25 091850" src="https://github.com/user-attachments/assets/6f30bc71-74fb-4211-897b-c54be3f86806" />
 
 
+# Name: MOULISHWAR G
+
+# Register Number: 2305001020
+
+
 **DESIGN STEPS**
 
 **STEP 1: Import tensorflow and preprocessing libraries.**
@@ -144,10 +149,6 @@ x_single_prediction = np.argmax(model.predict(img_28_gray_inverted_scaled.reshap
 print(x_single_prediction)
 
 ```
-
-**Name: MOULISHWAR G**
-
-**Register Number: 2305001020**
 
 # OUTPUT
 
